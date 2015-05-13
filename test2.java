@@ -4,5 +4,4 @@ class test {
         System.out.println( "Mwahah!!!" );
     }
 }
-// Jajajaja
-// Definitely a conflict
+// haha
