@@ -8,3 +8,4 @@ class test {
 // Definitely a conflict
 //Hoi
 Yo
+Yo
