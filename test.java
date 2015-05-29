@@ -8,9 +8,6 @@ class test {
     }
 }
 //
-//
-//
-//
-//
-//
-//
+// SB-28
+// Jij je zin
+// lasr commit
